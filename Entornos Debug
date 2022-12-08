@@ -1,0 +1,10 @@
+# Ejercicio Debug Entornos 
+
+1. Crea una variable llamada string1 de tipo string con valor "string1" por defecto
+	 Crea una variable llamada string2 de tipo string con valor "string2" por defecto
+   
+2. Por que se hace con .equals
+   
+3. Con el doble igual se compara posiciones de memoria hay que poner -> if (string1.equals(string2)) y lo que sea
+
+4. Falta ponerlo como un static para poder llamarlo
